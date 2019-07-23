@@ -1,5 +1,5 @@
 import pytest
-from .p3 import Game
+from .main import Game
 
 
 @pytest.fixture
